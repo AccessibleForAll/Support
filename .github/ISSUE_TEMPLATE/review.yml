@@ -1,0 +1,20 @@
+name: Accessibility Review
+description: I would like my website to have an accessibility review
+title: "Accessibility Review"
+labels: [review my website]
+body:
+  - type: input
+    id: WebsiteURL
+    attributes:
+      label: Website URL
+      placeholder: Insert your website URL here
+    validations:
+      required: true
+  - type: input
+    id: githubURL
+    attributes:
+      label: GitHub Repo URL
+      placeholder: Insert your GitHub Repo URL here
+    validations:
+      required: true
+ 

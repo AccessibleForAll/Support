@@ -6,4 +6,4 @@
 
 
 ## Our maintainers
-<img src="https://github.com/emmalearnscode.png" width="50px" height="50px" alt="Emma Dawson">[  Emma Dawson](https://github.com/emmalearnscode)
+<img src="https://github.com/emmadawsondev.png" width="50px" height="50px" alt="Emma Dawson">[  Emma Dawson](https://github.com/emmadawsondev)

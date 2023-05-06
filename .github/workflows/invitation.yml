@@ -12,6 +12,6 @@ jobs:
           organization: AccessibleForAll
           label: invite me to the organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: 'Invitation sent to join the GitHub Organisation. Welcome to the community 🎉'
+          comment: '<b>Invitation sent to join the GitHub Organisation. Welcome to the Accessible For All community 🎉</b><br>Looking for accessibility resources? Try the <a href="https://github.com/AccessibleForAll/Resources">Resources</a> repository.<br>Looking to contribute? Why not start at <a href="https://github.com/AccessibleForAll/AccessibleWebDev">Accessible Web Dev</a><br>Otherwise, feel free to explore!'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
